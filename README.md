@@ -7,3 +7,5 @@
 ## Deliverable 1 - Filter UFO sightings on multiple criteria
 
 #### Dana’s finished website includes documented sightings across the United States and Canada. She has also included filters—such as date, city, state, country, shape, and duration—to make her site more user-friendly.
+
+![](https://github.com/AB3478/UFOs/blob/8e07c0549f34955928349a1507a3479eb6bae692/images/SiteOverview.png)
